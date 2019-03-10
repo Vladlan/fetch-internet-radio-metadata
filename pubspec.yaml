@@ -1,0 +1,16 @@
+name: dart_stream_example
+description: A sample command-line application.
+# version: 1.0.0
+# homepage: https://www.example.com
+# author: vladlan <email@example.com>
+
+environment:
+  sdk: '>=2.0.0 <3.0.0'
+
+#dependencies:
+#  path: ^1.4.1
+
+dev_dependencies:
+  test: ^1.0.0
+  socket_io_client: ^0.9.1
+  body_parser: any
